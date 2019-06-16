@@ -1,0 +1,17 @@
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete

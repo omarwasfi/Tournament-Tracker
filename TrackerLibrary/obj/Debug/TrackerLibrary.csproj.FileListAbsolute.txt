@@ -1,0 +1,6 @@
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
