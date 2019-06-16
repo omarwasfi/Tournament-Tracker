@@ -31,6 +31,7 @@ namespace TrackerUI
                 PlaceNumberValue.Text = "";
                 PrizeAmountValue.Text = "0";
                 PrizePercentageValue.Text = "0";
+                MessageBox.Show("Prize created");
             }
             else
             {
