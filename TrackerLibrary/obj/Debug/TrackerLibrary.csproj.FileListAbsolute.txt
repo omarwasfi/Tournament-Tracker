@@ -4,3 +4,12 @@ E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\bin\Debug\Track
 E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
 E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
 E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete

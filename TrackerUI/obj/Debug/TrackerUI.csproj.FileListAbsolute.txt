@@ -15,3 +15,22 @@ E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.
 E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
 E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
 E:\My PrOjEcTs\Some Code We Need\TournmentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\bin\Debug\Dapper.dll
+C:\Users\omerw\Documents\GitHub\Tournament-Tracker\TrackerUI\bin\Debug\Dapper.xml
