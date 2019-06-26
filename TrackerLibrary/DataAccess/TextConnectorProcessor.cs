@@ -146,5 +146,30 @@ namespace TrackerLibrary.DataAccess.TextHelpers
 
             return output;
         }
+
+        // Tournamnet
+        public static List<TournamentModel> ConvertToTournmanetModels(this List<string> lines)
+        {
+            
+            // Id ,TournamentName,EntryFee,(Id|Id|Id - Entered Teams),(Id,Id,Id - Prizes) , (Rounds Id^Id^Id|Id^Id)
+            List<TournamentModel> output = new List<TournamentModel>();
+
+            foreach(string line in lines)
+            {
+                string[] cols = line.Split(',');
+                TournamentModel tm = new TournamentModel();
+                tm.Id = int.Parse(cols[0]);
+                tm.TournamentName = cols[1];
+                tm.EntryFee = decimal.Parse(cols[2]);
+
+                string[] teamIds = cols[3].Split('|');
+                foreach(string Id in teamIds)
+                {
+                    
+                }
+
+            }
+            return output;
+        }
     }
 }
