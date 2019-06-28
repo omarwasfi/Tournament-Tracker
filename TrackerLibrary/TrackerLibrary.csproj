@@ -60,6 +60,7 @@
     <Compile Include="Models\TeamModel.cs" />
     <Compile Include="DataAccess\TextConnection.cs" />
     <Compile Include="Models\TournamentModel.cs" />
+    <Compile Include="TournaamentLogic.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

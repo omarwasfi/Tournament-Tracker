@@ -133,6 +133,9 @@ namespace TrackerUI
             tm.EnteredTaems = selectedTeams;
 
             // WireUp our Matchups
+            TournaamentLogic.CreateRounds(tm);
+
+
 
             // Create Tournament Entry
             // Create all the prizes entries
